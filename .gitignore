@@ -1,0 +1,4 @@
+/src/main/java/com/mingyin/Chapter01.java
+
+# Project exclude paths
+/target/
